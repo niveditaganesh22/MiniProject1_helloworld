@@ -45,22 +45,26 @@ __Bold text__
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
 
+
+## BLOCKQUOTES
+> This is a blockquote
+
 ## CODE
 ### INLINE CODE
 `Inline code`
-### CODEBLOCK
-### HORIZONTAL RULE
-
-```python
-def hello():
-    print("Hello, world!")
-
 ### HORIZONTAL RULE
 
 ```markdown
 ---
+```
+### CODEBLOCK
+```python
+def hello():
+    print("Hello, world!")
+```
+## COMMENT
+<!-- This is a comment -->
 
-## BLOCKQUOTES
-> This is a blockquote
+
 
 
