@@ -29,7 +29,7 @@ __Bold text__
    2. Subitem 2.2
 
 ## LINKS
-[Link text](URL)
+[Link text](https://www.example.com/)
 
 ## IMAGES
 ![Alt text](https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-Beautiful-Images-For-Desktop-Nature.png)
