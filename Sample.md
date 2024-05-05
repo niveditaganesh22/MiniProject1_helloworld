@@ -14,3 +14,16 @@ _Italic text_
 __Bold text__
 
 **_Bold and italic text_**
+
+## UNORDERED LISTS
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+
+## ORDERED LIST
+
+1. Item 1
+2. Item 2
+   1. Subitem 2.1
+   2. Subitem 2.2
