@@ -32,7 +32,7 @@ __Bold text__
 [Link text](URL)
 
 ## IMAGES
-![Alt text](image_url)
+![Alt text](https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-Beautiful-Images-For-Desktop-Nature.png)
 
 ## TASK LIST
 - [x] Task 1
