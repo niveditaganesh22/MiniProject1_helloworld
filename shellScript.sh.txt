@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "-----------------------------------------------------"
 echo "Installing Java and Maven"
 echo "-----------------------------------------------------"
@@ -29,7 +30,7 @@ echo "Starting SonarQube Installation"
 echo "-----------------------------------------------------"
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.7.1.62043.zip
 echo "-----------------------------------------------------"
-echo "Extracting tar file"
+echo "Extracting zip file"
 echo "-----------------------------------------------------"
 sudo apt install unzip && unzip sonarqube-9.7.1.62043.zip
 echo "-----------------------------------------------------"
